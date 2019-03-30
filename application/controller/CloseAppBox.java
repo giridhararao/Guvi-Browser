@@ -1,4 +1,4 @@
-package main.java.com.goxr3plus.javafxwebbrowser.application.controllers;
+package main.java.com.goxr3plus.javafxwebbrowser.application.controller;
 
 import java.io.IOException;
 
